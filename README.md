@@ -10,8 +10,8 @@ slpgoblin 的个人博客
 
 ### 最新
 
-* [JAVA学习路线](http://www.goblin-blog.top/articles/2019/08/17/1566019763425.html)
-* [世界，你好！](http://www.goblin-blog.top/hello-solo)
+* [JAVA学习路线](https://www.goblin-blog.top/articles/2019/08/17/1566019763425.html)
+* [世界，你好！](https://www.goblin-blog.top/hello-solo)
 
 
 
