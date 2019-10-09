@@ -10,6 +10,7 @@ slpgoblin 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.goblin-blog.top/my-github-repos)
 * [JAVA学习路线](https://www.goblin-blog.top/articles/2019/08/17/1566019763425.html)
 * [世界，你好！](https://www.goblin-blog.top/hello-solo)
 
