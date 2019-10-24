@@ -10,6 +10,7 @@ slpgoblin 的个人博客
 
 ### 最新
 
+* [Spring Cloud Alibaba 学习笔记 3](https://www.goblin-blog.top/articles/2019/10/23/1571843700649.html)
 * [Spring Cloud Alibaba 学习笔记 2](https://www.goblin-blog.top/articles/2019/10/21/1571671915988.html)
 * [Spring Cloud Alibaba 学习笔记 1](https://www.goblin-blog.top/articles/2019/10/21/1571669983427.html)
 * [我在 GitHub 上的开源项目](https://www.goblin-blog.top/my-github-repos)
