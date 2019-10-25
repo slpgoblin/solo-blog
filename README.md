@@ -10,6 +10,8 @@ slpgoblin 的个人博客
 
 ### 最新
 
+* [JVM内存模型](https://www.goblin-blog.top/articles/2019/10/24/1571893856611.html)
+* [JAVA并发编程1](https://www.goblin-blog.top/articles/2019/10/24/1571893195215.html)
 * [Spring Cloud Alibaba 学习笔记 3](https://www.goblin-blog.top/articles/2019/10/23/1571843700649.html)
 * [Spring Cloud Alibaba 学习笔记 2](https://www.goblin-blog.top/articles/2019/10/21/1571671915988.html)
 * [Spring Cloud Alibaba 学习笔记 1](https://www.goblin-blog.top/articles/2019/10/21/1571669983427.html)
