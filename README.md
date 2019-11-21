@@ -10,6 +10,8 @@ slpgoblin 的个人博客
 
 ### 最新
 
+* [Spring Cloud Alibaba 学习笔记 14 - Feign](https://www.goblin-blog.top/articles/2019/11/20/1574265157046.html)
+* [备忘](https://www.goblin-blog.top/articles/2019/11/20/1574261797072.html)
 * [Spring Cloud Alibaba 学习笔记 12 - 负载均衡](https://www.goblin-blog.top/articles/2019/11/14/1573660942393.html)
 * [中台学习笔记 1](https://www.goblin-blog.top/articles/2019/11/06/1573029155271.html)
 * [Spring Cloud Alibaba 学习笔记 11](https://www.goblin-blog.top/articles/2019/11/03/1572796326475.html)
